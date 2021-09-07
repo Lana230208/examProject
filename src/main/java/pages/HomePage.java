@@ -46,8 +46,5 @@ public class HomePage extends ParentPage{
         return this;
     }
 }
-//    public ProfilePage clickOnButtonProfile(){
-//        clickOnElement(buttonProfile);
-//        return new ProfilePage(webDriver);
 
 

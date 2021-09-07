@@ -12,33 +12,30 @@ import org.junit.runner.RunWith;
 
 @RunWith(JUnitParamsRunner.class)
 public class LoginTestWithPageObject extends BaseTest {
-    public static final String[] invalidLoginData = {"auto:123", "auto2:123", "auto3:789"};
 
     @Test
     @Category(SmokeTestFilter.class)
     public void validLogin(){
-        loginPage.openLoginPage();
-        loginPage.enterLoginInSignIn(TestData.VALID_LOGIN);
-        loginPage.enterPassWordInSignIn(TestData.VALID_PASSWORD);
-        loginPage.clickOnButtonSignIn();
+        loginPage.fillLoginFormAndSubmit(TestData.VALID_LOGIN, TestData.VALID_PASSWORD);
 
-//        checkExpectedResult("Button SignOut is not visible", homePage.isButtonSignOutPresent(),true);
+        checkExpectedResult("User Label is not visible", loginPage.isUserLabelPresent(),true);
     }
 
     @Test
     public void invalidLogin(){
-        loginPage.fillLoginFormAndSubmit("+380677006651", "123");
 
-        checkExpectedResult("Button SignIn is not visible", loginPage.isButtonSignInPresent(),true);
-        checkExpectedResult("label Invalid Login is not present", loginPage.isLabelMessageInvalidLoginPresent(),true);
+        loginPage.fillLoginFormAndSubmit("677006651", "12345678");
+
+        checkExpectedResult("label Invalid Login is present", loginPage.isLabelMessageInvalidLoginPresent(),true);
+        checkExpectedResult("User Label is not visible", loginPage.isUserLabelPresent(),false);
     }
     @Test
-    @Parameters({"auto,123", "auto2,123", "auto3,789"})
+    @Parameters({"677776655,12345678", "677009987,12345677", "678990077,78988888"})
     public void paramInvalidLogin(String login, String password){
 
         loginPage.fillLoginFormAndSubmit(login, password);
 
-        checkExpectedResult("Button SignIn is not visible", loginPage.isButtonSignInPresent(), true);
-        checkExpectedResult("label Invalid Login is not present", loginPage.isLabelMessageInvalidLoginPresent(), true);
+        checkExpectedResult("label Invalid Login is not present", loginPage.isLabelMessageInvalidLoginPresent(),true);
+        checkExpectedResult("User Label is not visible", loginPage.isUserLabelPresent(),false);
     }
 }

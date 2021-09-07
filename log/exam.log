@@ -1,0 +1,744 @@
+2021-06-09 19:31:20   INFO [basketTest.BasketTest] : -------addFirstItemToBasket was started ---------
+2021-06-09 19:31:29   INFO [pages.BasketPage] : Basket page was opened
+2021-06-09 19:31:41  ERROR [pages.BasketPage] : Can't work with BasketPageorg.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=93.0.4577.63)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-4BQISDN', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 93.0.4577.15 (660fc11082ba5..., userDataDir: C:\Users\iphon\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61153}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 694f591fd953d6bc12cf087dabf1ddcb
+*** Element info: {Using=id, value=product-addtocart-button}
+2021-06-09 19:31:41   INFO [basketTest.BasketTest] : -------addFirstItemToBasketwas ended ---------
+2021-06-09 19:34:02   INFO [basketTest.BasketTest] : -------addFirstItemToBasket was started ---------
+2021-06-09 19:34:07   INFO [pages.BasketPage] : Basket page was opened
+2021-06-09 19:34:21  ERROR [pages.BasketPage] : Can't work with BasketPageorg.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=93.0.4577.63)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-4BQISDN', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 93.0.4577.15 (660fc11082ba5..., userDataDir: C:\Users\iphon\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51883}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 11c8fb5759ee5afceca0b0f35da3202c
+*** Element info: {Using=id, value=product-addtocart-button}
+2021-06-09 19:34:22   INFO [basketTest.BasketTest] : -------addFirstItemToBasketwas ended ---------
+2021-06-09 19:40:13   INFO [basketTest.BasketTest] : -------addFirstItemToBasket was started ---------
+2021-06-09 19:40:17   INFO [pages.BasketPage] : Basket page was opened
+2021-06-09 19:40:29   INFO [pages.BasketPage] : cartButton============
+2021-06-09 19:40:29  ERROR [pages.BasketPage] : Can't work with BasketPageorg.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=93.0.4577.63)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-4BQISDN', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 93.0.4577.15 (660fc11082ba5..., userDataDir: C:\Users\iphon\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57470}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9cca86bdb656711464de1ae21c03e3b6
+*** Element info: {Using=id, value=product-addtocart-button}
+2021-06-09 19:40:30   INFO [basketTest.BasketTest] : -------addFirstItemToBasketwas ended ---------
+2021-06-09 19:50:53   INFO [basketTest.BasketTest] : -------addFirstItemToBasket was started ---------
+2021-06-09 19:50:58   INFO [pages.BasketPage] : Basket page was opened
+2021-06-09 19:51:12   INFO [pages.BasketPage] : cartButton============
+2021-06-09 19:51:12  ERROR [pages.BasketPage] : Can't work with BasketPageorg.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=93.0.4577.63)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-4BQISDN', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 93.0.4577.15 (660fc11082ba5..., userDataDir: C:\Users\iphon\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53010}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: de83bc8e90526a5f2842259175ef1200
+*** Element info: {Using=id, value=product-addtocart-button}
+2021-06-09 19:51:13   INFO [basketTest.BasketTest] : -------addFirstItemToBasketwas ended ---------
+2021-06-09 19:53:04   INFO [basketTest.BasketTest] : -------addFirstItemToBasket was started ---------
+2021-06-09 19:53:09   INFO [pages.BasketPage] : Basket page was opened
+2021-06-09 19:53:21   INFO [pages.BasketPage] : cartButton============
+2021-06-09 19:53:21  ERROR [pages.BasketPage] : Can't work with BasketPageorg.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=93.0.4577.63)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-4BQISDN', ip: '192.168.0.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 93.0.4577.15 (660fc11082ba5..., userDataDir: C:\Users\iphon\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54005}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b4bbfa7def5bd3ce028aa4e2ac4a2470
+*** Element info: {Using=xpath, value=//button[@id='product-addtocart-button']}
+2021-06-09 19:53:21   INFO [basketTest.BasketTest] : -------addFirstItemToBasketwas ended ---------
+2021-06-09 19:56:10   INFO [basketTest.BasketTest] : -------addFirstItemToBasket was started ---------
+2021-06-09 19:56:15   INFO [pages.BasketPage] : Basket page was opened
+2021-06-09 19:56:27   INFO [pages.BasketPage] : cartButton============
+2021-06-09 19:56:27   INFO [pages.BasketPage] : В кошик
+2021-06-09 19:56:31   INFO [basketTest.BasketTest] : -------addFirstItemToBasketwas ended ---------
+2021-06-09 20:00:08   INFO [basketTest.BasketTest] : -------addFirstItemToBasket was started ---------
+2021-06-09 20:00:12   INFO [pages.BasketPage] : Basket page was opened
+2021-06-09 20:00:35   INFO [pages.BasketPage] : cartButton============
+2021-06-09 20:00:35   INFO [pages.BasketPage] : В кошик
+2021-06-09 20:00:38   INFO [basketTest.BasketTest] : -------addFirstItemToBasketwas ended ---------
+2021-06-09 20:01:34   INFO [basketTest.BasketTest] : -------addFirstItemToBasket was started ---------
+2021-06-09 20:01:39   INFO [pages.BasketPage] : Basket page was opened
+2021-06-09 20:01:51   INFO [pages.BasketPage] : cartButton============
+2021-06-09 20:01:51   INFO [pages.BasketPage] : В кошик
+2021-06-09 20:01:55   INFO [basketTest.BasketTest] : -------addFirstItemToBasketwas ended ---------
+2021-07-09 13:16:57   INFO [basketTest.BasketTest] : -------addFirstItemToBasket was started ---------
+2021-07-09 13:17:01  ERROR [pages.BasketPage] : Can't work with BasketPageorg.openqa.selenium.WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=93.0.4577.63)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-4BQISDN', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 93.0.4577.15 (660fc11082ba5..., userDataDir: C:\Users\iphon\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64291}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e4f821f01613ea10fce47f6005b05df3
+2021-07-09 13:17:01   INFO [basketTest.BasketTest] : -------addFirstItemToBasketwas ended ---------
+2021-07-09 13:18:12   INFO [loginTest.LoginTestWithPageObject] : -------validLogin was started ---------
+2021-07-09 13:18:15  ERROR [pages.LoginPage] : Can't work with LoginPageorg.openqa.selenium.WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=93.0.4577.63)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-4BQISDN', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 93.0.4577.15 (660fc11082ba5..., userDataDir: C:\Users\iphon\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63282}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 01936c0fe1a6dd60f8d4d8c8a1956f2a
+2021-07-09 13:18:16   INFO [loginTest.LoginTestWithPageObject] : -------validLoginwas ended ---------
+2021-07-09 13:18:16   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 13:18:17  ERROR [pages.LoginPage] : Can't work with LoginPageorg.openqa.selenium.WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=93.0.4577.63)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-4BQISDN', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 93.0.4577.15 (660fc11082ba5..., userDataDir: C:\Users\iphon\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65485}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4d82c15828deb074cb4288c5140b1ec8
+2021-07-09 13:18:18   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 13:18:18   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 13:18:20  ERROR [pages.LoginPage] : Can't work with LoginPageorg.openqa.selenium.WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=93.0.4577.63)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-4BQISDN', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 93.0.4577.15 (660fc11082ba5..., userDataDir: C:\Users\iphon\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61325}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: da7f65ea335d417ee3cad8d2ead3ed33
+2021-07-09 13:18:20   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 13:18:20   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 13:18:22  ERROR [pages.LoginPage] : Can't work with LoginPageorg.openqa.selenium.WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=93.0.4577.63)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-4BQISDN', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 93.0.4577.15 (660fc11082ba5..., userDataDir: C:\Users\iphon\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56793}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f6f41e6bbdf3ffee23df438362bcd374
+2021-07-09 13:18:23   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 13:18:23   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 13:18:25  ERROR [pages.LoginPage] : Can't work with LoginPageorg.openqa.selenium.WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=93.0.4577.63)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-4BQISDN', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 93.0.4577.15 (660fc11082ba5..., userDataDir: C:\Users\iphon\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63461}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a9dc330e39a846c8f2ff38f68a184780
+2021-07-09 13:18:25   INFO [loginTest.LoginTestWithPageObject] : -------invalidLoginwas ended ---------
+2021-07-09 13:19:22   INFO [loginTest.LoginTestWithPageObject] : -------validLogin was started ---------
+2021-07-09 13:19:27   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:19:27   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:19:37   INFO [pages.LoginPage] :  ' ASDfg230208 ' was input in the element  'Input Pass '
+2021-07-09 13:19:38   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:19:50   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:19:51   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 13:19:52   INFO [loginTest.LoginTestWithPageObject] : -------validLoginwas ended ---------
+2021-07-09 13:20:47   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 13:20:52   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:20:52   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:21:02   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 13:21:02   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:21:05   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:21:06  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 13:21:06  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 13:21:06   INFO [pages.LoginPage] : Element is present 
+2021-07-09 13:21:37   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 13:21:37   INFO [loginTest.LoginTestWithPageObject] : -------invalidLoginwas ended ---------
+2021-07-09 13:22:31   INFO [loginTest.LoginTestWithPageObject] : -------validLogin was started ---------
+2021-07-09 13:22:36   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:22:36   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:22:47   INFO [pages.LoginPage] :  ' ASDfg230208 ' was input in the element  'Input Pass '
+2021-07-09 13:22:47   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:22:52   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:22:53   INFO [pages.LoginPage] :  'User Label'Element is present 
+2021-07-09 13:22:54   INFO [loginTest.LoginTestWithPageObject] : -------validLoginwas ended ---------
+2021-07-09 13:24:31   INFO [loginTest.LoginTestWithPageObject] : -------validLogin was started ---------
+2021-07-09 13:24:36   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:24:36   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:24:46   INFO [pages.LoginPage] :  ' ASDfg230208 ' was input in the element  'Input Pass '
+2021-07-09 13:24:46   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:24:50   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:24:51   INFO [pages.LoginPage] :  'User Label'Element is present 
+2021-07-09 13:24:52   INFO [loginTest.LoginTestWithPageObject] : -------validLoginwas ended ---------
+2021-07-09 13:26:34   INFO [loginTest.LoginTestWithPageObject] : -------validLogin was started ---------
+2021-07-09 13:26:39   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:26:39   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:26:50   INFO [pages.LoginPage] :  ' ASDfg230208 ' was input in the element  'Input Pass '
+2021-07-09 13:26:50   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:26:56   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:26:57   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 13:28:13   INFO [loginTest.LoginTestWithPageObject] : -------validLogin was started ---------
+2021-07-09 13:28:17   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:28:17   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:28:28   INFO [pages.LoginPage] :  ' ASDfg230208 ' was input in the element  'Input Pass '
+2021-07-09 13:28:28   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:28:32   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:28:33   INFO [pages.LoginPage] :  'User Label'Element is present 
+2021-07-09 13:28:34   INFO [loginTest.LoginTestWithPageObject] : -------validLoginwas ended ---------
+2021-07-09 13:28:45   INFO [loginTest.LoginTestWithPageObject] : -------validLogin was started ---------
+2021-07-09 13:28:50   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:28:50   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:29:01   INFO [pages.LoginPage] :  ' ASDfg230208 ' was input in the element  'Input Pass '
+2021-07-09 13:29:01   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:29:04   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:29:06   INFO [pages.LoginPage] :  'User Label'Element is present 
+2021-07-09 13:29:06   INFO [loginTest.LoginTestWithPageObject] : -------validLoginwas ended ---------
+2021-07-09 13:29:06   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 13:29:09   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:29:09   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:29:20   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 13:29:20   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:29:23   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:29:24  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 13:29:24  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 13:29:24   INFO [pages.LoginPage] : Element is present 
+2021-07-09 13:29:54   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 13:29:55   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 13:29:55   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 13:29:58   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:29:58   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:30:08   INFO [pages.LoginPage] :  ' 12345677 ' was input in the element  'Input Pass '
+2021-07-09 13:30:09   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:30:11   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:30:12  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 13:30:12  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 13:30:12   INFO [pages.LoginPage] : Element is present 
+2021-07-09 13:30:42   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 13:30:43   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 13:30:43   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 13:30:46   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:30:46   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:30:57   INFO [pages.LoginPage] :  ' 78988888 ' was input in the element  'Input Pass '
+2021-07-09 13:30:57   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:30:59   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:31:01  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 13:31:01  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 13:31:01   INFO [pages.LoginPage] : Element is present 
+2021-07-09 13:31:31   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 13:31:32   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 13:31:32   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 13:31:35   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:31:35   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:31:45   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 13:31:45   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:31:48   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:31:49  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 13:31:49  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 13:31:49   INFO [pages.LoginPage] : Element is present 
+2021-07-09 13:32:19   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 13:32:20   INFO [loginTest.LoginTestWithPageObject] : -------invalidLoginwas ended ---------
+2021-07-09 13:43:54   INFO [loginTest.LoginTestWithPageObject] : -------validLogin was started ---------
+2021-07-09 13:43:59   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:43:59   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:44:15   INFO [pages.LoginPage] :  ' ASDfg230208 ' was input in the element  'Input Pass '
+2021-07-09 13:44:15   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:44:20   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:44:21   INFO [pages.LoginPage] :  'User Label'Element is present 
+2021-07-09 13:44:22   INFO [loginTest.LoginTestWithPageObject] : -------validLoginwas ended ---------
+2021-07-09 13:44:22   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 13:44:25   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:44:25   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:44:36   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 13:44:36   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:44:38   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:44:39  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 13:44:39  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 13:44:39   INFO [pages.LoginPage] : Element is present 
+2021-07-09 13:45:10   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 13:45:11   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 13:45:11   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 13:45:13   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:45:14   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:45:24   INFO [pages.LoginPage] :  ' 12345677 ' was input in the element  'Input Pass '
+2021-07-09 13:45:24   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:45:27   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:45:28  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 13:45:28  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 13:45:28   INFO [pages.LoginPage] : Element is present 
+2021-07-09 13:45:58   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 13:45:59   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 13:45:59   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 13:46:02   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:46:02   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:46:13   INFO [pages.LoginPage] :  ' 78988888 ' was input in the element  'Input Pass '
+2021-07-09 13:46:13   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:46:16   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:46:17  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 13:46:17  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 13:46:17   INFO [pages.LoginPage] : Element is present 
+2021-07-09 13:46:47   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 13:46:48   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 13:46:48   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 13:46:51   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:46:51   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:47:07   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 13:47:07   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:47:09   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:47:20  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 13:47:20  ERROR [pages.LoginPage] : 
+2021-07-09 13:47:20   INFO [pages.LoginPage] : Element is present 
+2021-07-09 13:47:21   INFO [loginTest.LoginTestWithPageObject] : -------invalidLoginwas ended ---------
+2021-07-09 13:48:19   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 13:48:24   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:48:24   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:48:39   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 13:48:40   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:48:42   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:48:52  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 13:48:52  ERROR [pages.LoginPage] : 
+2021-07-09 13:48:52   INFO [pages.LoginPage] : Element is present 
+2021-07-09 13:48:53   INFO [loginTest.LoginTestWithPageObject] : -------invalidLoginwas ended ---------
+2021-07-09 13:49:16   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 13:49:20   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:49:20   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:49:36   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 13:49:36   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:49:38   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:49:49  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 13:49:49  ERROR [pages.LoginPage] : 
+2021-07-09 13:49:49   INFO [pages.LoginPage] : Element is present 
+2021-07-09 13:49:49   INFO [pages.LoginPage] :  'User Label'Element is present 
+2021-07-09 13:49:50   INFO [loginTest.LoginTestWithPageObject] : -------invalidLoginwas ended ---------
+2021-07-09 13:50:24   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 13:50:28   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:50:28   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:50:44   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 13:50:44   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:50:46   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:50:57  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 13:50:57  ERROR [pages.LoginPage] : 
+2021-07-09 13:50:57   INFO [pages.LoginPage] : Element is present 
+2021-07-09 13:50:58   INFO [loginTest.LoginTestWithPageObject] : -------invalidLoginwas ended ---------
+2021-07-09 13:51:26   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 13:51:30   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:51:31   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:51:41   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 13:51:41   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:51:44   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:51:45  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 13:51:45  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 13:51:45   INFO [pages.LoginPage] : Element is present 
+2021-07-09 13:52:15   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 13:52:16   INFO [loginTest.LoginTestWithPageObject] : -------invalidLoginwas ended ---------
+2021-07-09 13:52:44   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 13:52:49   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:52:49   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:53:04   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 13:53:04   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:53:06   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:53:17  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 13:53:17  ERROR [pages.LoginPage] : 
+2021-07-09 13:53:17   INFO [pages.LoginPage] : Element is present 
+2021-07-09 13:53:18   INFO [loginTest.LoginTestWithPageObject] : -------invalidLoginwas ended ---------
+2021-07-09 13:53:42   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 13:53:46   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:53:46   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:53:57   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 13:53:57   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:54:00   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:54:01  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 13:54:01  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 13:54:01   INFO [pages.LoginPage] : Element is present 
+2021-07-09 13:54:01   INFO [loginTest.LoginTestWithPageObject] : -------invalidLoginwas ended ---------
+2021-07-09 13:54:42   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 13:54:47   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:54:47   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:54:57   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 13:54:57   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:55:00   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:55:01  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 13:55:01  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 13:55:01   INFO [pages.LoginPage] : Element is present 
+2021-07-09 13:55:02   INFO [loginTest.LoginTestWithPageObject] : -------invalidLoginwas ended ---------
+2021-07-09 13:55:30   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 13:55:34   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:55:34   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:55:45   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 13:55:46   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:55:48   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:55:49  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 13:55:49  ERROR [pages.LoginPage] : 
+2021-07-09 13:55:49   INFO [pages.LoginPage] : Element is present 
+2021-07-09 13:55:50   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 13:55:50   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 13:55:53   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:55:53   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:56:08   INFO [pages.LoginPage] :  ' 12345677 ' was input in the element  'Input Pass '
+2021-07-09 13:56:09   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:56:11   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:56:21  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 13:56:21  ERROR [pages.LoginPage] : 
+2021-07-09 13:56:21   INFO [pages.LoginPage] : Element is present 
+2021-07-09 13:56:22   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 13:56:22   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 13:56:25   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:56:25   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:56:40   INFO [pages.LoginPage] :  ' 78988888 ' was input in the element  'Input Pass '
+2021-07-09 13:56:40   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:56:42   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:56:53  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 13:56:53  ERROR [pages.LoginPage] : 
+2021-07-09 13:56:53   INFO [pages.LoginPage] : Element is present 
+2021-07-09 13:56:54   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 13:57:50   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 13:57:55   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:57:55   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 13:58:05   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 13:58:05   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:58:07   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 13:58:08  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 13:58:08  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 13:58:08   INFO [pages.LoginPage] : Element is present 
+2021-07-09 13:59:47   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 13:59:52   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 13:59:52   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:00:07   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 14:00:07   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:00:10   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:00:20  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:00:20  ERROR [pages.LoginPage] : 
+2021-07-09 14:00:20   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:00:21   INFO [loginTest.LoginTestWithPageObject] : -------invalidLoginwas ended ---------
+2021-07-09 14:01:38   INFO [loginTest.LoginTestWithPageObject] : -------validLogin was started ---------
+2021-07-09 14:01:43   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:01:43   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:01:53   INFO [pages.LoginPage] :  ' ASDfg230208 ' was input in the element  'Input Pass '
+2021-07-09 14:01:53   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:01:59   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:02:00   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 14:02:01   INFO [loginTest.LoginTestWithPageObject] : -------validLoginwas ended ---------
+2021-07-09 14:03:31   INFO [loginTest.LoginTestWithPageObject] : -------validLogin was started ---------
+2021-07-09 14:03:35   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:03:35   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:03:51   INFO [pages.LoginPage] :  ' ASDfg230208 ' was input in the element  'Input Pass '
+2021-07-09 14:03:52   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:03:56   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:03:57   INFO [pages.LoginPage] :  'User Label'Element is present 
+2021-07-09 14:03:58   INFO [loginTest.LoginTestWithPageObject] : -------validLoginwas ended ---------
+2021-07-09 14:04:17   INFO [loginTest.LoginTestWithPageObject] : -------validLogin was started ---------
+2021-07-09 14:04:22   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:04:22   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:04:33   INFO [pages.LoginPage] :  ' ASDfg230208 ' was input in the element  'Input Pass '
+2021-07-09 14:04:33   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:04:37   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:04:38   INFO [pages.LoginPage] :  'User Label'Element is present 
+2021-07-09 14:04:39   INFO [loginTest.LoginTestWithPageObject] : -------validLoginwas ended ---------
+2021-07-09 14:07:10   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 14:07:15   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:07:15   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:07:31   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 14:07:31   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:07:33   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:07:34   INFO [pages.LoginPage] :  'User Label'Element is present 
+2021-07-09 14:07:35   INFO [loginTest.LoginTestWithPageObject] : -------invalidLoginwas ended ---------
+2021-07-09 14:11:08   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 14:11:13   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:11:13   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:11:24   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 14:11:24   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:11:26   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:11:27  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:11:27  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 14:11:27   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:11:28   INFO [loginTest.LoginTestWithPageObject] : -------invalidLoginwas ended ---------
+2021-07-09 14:12:33   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 14:12:38   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:12:38   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:12:48   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 14:12:49   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:12:51   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:12:52  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:12:52  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 14:12:52   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:13:23   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 14:13:23   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 14:13:23   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 14:13:26   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:13:26   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:13:37   INFO [pages.LoginPage] :  ' 12345677 ' was input in the element  'Input Pass '
+2021-07-09 14:13:37   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:13:40   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:13:41  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:13:41  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 14:13:41   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:14:11   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 14:14:12   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 14:14:12   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 14:14:15   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:14:15   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:14:25   INFO [pages.LoginPage] :  ' 78988888 ' was input in the element  'Input Pass '
+2021-07-09 14:14:25   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:14:28   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:14:29  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:14:29  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 14:14:29   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:14:59   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 14:15:00   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 14:18:37   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 14:18:42   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:18:42   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:18:58   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 14:18:58   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:19:00   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:19:10  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:19:10  ERROR [pages.LoginPage] : 
+2021-07-09 14:19:10   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:19:11   INFO [loginTest.LoginTestWithPageObject] : -------invalidLoginwas ended ---------
+2021-07-09 14:19:42   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 14:19:47   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:19:47   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:19:58   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 14:19:58   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:20:01   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:20:02  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:20:02  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 14:20:02   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:20:33   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 14:20:33   INFO [loginTest.LoginTestWithPageObject] : -------invalidLoginwas ended ---------
+2021-07-09 14:20:49   INFO [loginTest.LoginTestWithPageObject] : -------validLogin was started ---------
+2021-07-09 14:20:53   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:20:53   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:21:04   INFO [pages.LoginPage] :  ' ASDfg230208 ' was input in the element  'Input Pass '
+2021-07-09 14:21:04   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:21:09   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:21:10   INFO [pages.LoginPage] :  'User Label'Element is present 
+2021-07-09 14:21:11   INFO [loginTest.LoginTestWithPageObject] : -------validLoginwas ended ---------
+2021-07-09 14:21:11   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 14:21:14   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:21:14   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:21:24   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 14:21:25   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:21:27   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:21:28  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:21:28  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 14:21:28   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:21:58   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 14:21:59   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 14:21:59   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 14:22:02   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:22:02   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:22:18   INFO [pages.LoginPage] :  ' 12345677 ' was input in the element  'Input Pass '
+2021-07-09 14:22:18   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:22:20   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:22:30  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:22:30  ERROR [pages.LoginPage] : 
+2021-07-09 14:22:30   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:22:31   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 14:22:31   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 14:22:34   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:22:34   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:22:44   INFO [pages.LoginPage] :  ' 78988888 ' was input in the element  'Input Pass '
+2021-07-09 14:22:44   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:22:47   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:22:48  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:22:48  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 14:22:48   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:23:19   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 14:23:19   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 14:23:19   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 14:23:22   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:23:22   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:23:33   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 14:23:33   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:23:36   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:23:37  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:23:37  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 14:23:37   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:24:07   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 14:24:08   INFO [loginTest.LoginTestWithPageObject] : -------invalidLoginwas ended ---------
+2021-07-09 14:26:40   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 14:26:44   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:26:45   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:26:55   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 14:26:55   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:26:58   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:26:59  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:26:59  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 14:26:59   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:27:30   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 14:27:30   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 14:27:30   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 14:27:33   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:27:33   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:27:44   INFO [pages.LoginPage] :  ' 12345677 ' was input in the element  'Input Pass '
+2021-07-09 14:27:44   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:27:47   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:27:48  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:27:48  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 14:27:48   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:28:18   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 14:28:19   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 14:28:19   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 14:28:22   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:28:22   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:28:33   INFO [pages.LoginPage] :  ' 78988888 ' was input in the element  'Input Pass '
+2021-07-09 14:28:33   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:28:36   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:28:37  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:28:37  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 14:28:37   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:29:07   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 14:29:08   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 14:29:25   INFO [loginTest.LoginTestWithPageObject] : -------validLogin was started ---------
+2021-07-09 14:29:30   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:29:30   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:29:40   INFO [pages.LoginPage] :  ' ASDfg230208 ' was input in the element  'Input Pass '
+2021-07-09 14:29:40   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:29:44   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:29:46   INFO [pages.LoginPage] :  'User Label'Element is present 
+2021-07-09 14:29:46   INFO [loginTest.LoginTestWithPageObject] : -------validLoginwas ended ---------
+2021-07-09 14:29:46   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 14:29:49   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:29:49   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:30:00   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 14:30:00   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:30:03   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:30:04  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:30:04  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 14:30:04   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:30:34   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 14:30:35   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 14:30:35   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 14:30:38   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:30:38   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:30:49   INFO [pages.LoginPage] :  ' 12345677 ' was input in the element  'Input Pass '
+2021-07-09 14:30:49   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:30:52   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:30:53  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:30:53  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 14:30:53   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:31:23   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 14:31:24   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 14:31:24   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 14:31:27   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:31:27   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:31:37   INFO [pages.LoginPage] :  ' 78988888 ' was input in the element  'Input Pass '
+2021-07-09 14:31:38   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:31:40   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:31:41  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:31:41  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 14:31:41   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:32:12   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 14:32:12   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 14:32:12   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 14:32:15   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:32:16   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:32:26   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 14:32:26   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:32:29   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:32:30  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:32:30  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 14:32:30   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:33:01   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 14:33:01   INFO [loginTest.LoginTestWithPageObject] : -------invalidLoginwas ended ---------
+2021-07-09 14:34:51   INFO [loginTest.LoginTestWithPageObject] : -------validLogin was started ---------
+2021-07-09 14:34:56   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:34:56   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:35:07   INFO [pages.LoginPage] :  ' ASDfg230208 ' was input in the element  'Input Pass '
+2021-07-09 14:35:07   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:35:11   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:35:12   INFO [pages.LoginPage] :  'User Label'Element is present 
+2021-07-09 14:35:12   INFO [loginTest.LoginTestWithPageObject] : -------validLoginwas ended ---------
+2021-07-09 14:35:12   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 14:35:15   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:35:16   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:35:26   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 14:35:27   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:35:29   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:35:30  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:35:30  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 14:35:30   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:36:01   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 14:36:01   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 14:36:01   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 14:36:04   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:36:04   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:36:20   INFO [pages.LoginPage] :  ' 12345677 ' was input in the element  'Input Pass '
+2021-07-09 14:36:20   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:36:22   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:36:33  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:36:33  ERROR [pages.LoginPage] : 
+2021-07-09 14:36:33   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:36:34   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 14:36:34   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 14:36:37   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:36:37   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:36:53   INFO [pages.LoginPage] :  ' 78988888 ' was input in the element  'Input Pass '
+2021-07-09 14:36:53   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:36:55   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:37:05  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:37:05  ERROR [pages.LoginPage] : 
+2021-07-09 14:37:05   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:37:06   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 14:37:06   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 14:37:09   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:37:09   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:37:24   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 14:37:24   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:37:26   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:37:37  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:37:37  ERROR [pages.LoginPage] : 
+2021-07-09 14:37:37   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:37:38   INFO [loginTest.LoginTestWithPageObject] : -------invalidLoginwas ended ---------
+2021-07-09 14:38:29   INFO [loginTest.LoginTestWithPageObject] : -------validLogin was started ---------
+2021-07-09 14:38:34   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:38:34   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:38:45   INFO [pages.LoginPage] :  ' ASDfg230208 ' was input in the element  'Input Pass '
+2021-07-09 14:38:45   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:38:49   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:38:50   INFO [pages.LoginPage] :  'User Label'Element is present 
+2021-07-09 14:38:51   INFO [loginTest.LoginTestWithPageObject] : -------validLoginwas ended ---------
+2021-07-09 14:38:51   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 14:38:54   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:38:54   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:39:05   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 14:39:05   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:39:07   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:39:08  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:39:08  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 14:39:08   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:39:39   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 14:39:40   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 14:39:40   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 14:39:43   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:39:43   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:39:53   INFO [pages.LoginPage] :  ' 12345677 ' was input in the element  'Input Pass '
+2021-07-09 14:39:53   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:39:56   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:39:57  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:39:57  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 14:39:57   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:40:27   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 14:40:28   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 14:40:28   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLogin was started ---------
+2021-07-09 14:40:31   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:40:31   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:40:42   INFO [pages.LoginPage] :  ' 78988888 ' was input in the element  'Input Pass '
+2021-07-09 14:40:42   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:40:45   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:40:46  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:40:46  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 14:40:46   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:41:16   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 14:41:17   INFO [loginTest.LoginTestWithPageObject] : -------paramInvalidLoginwas ended ---------
+2021-07-09 14:41:17   INFO [loginTest.LoginTestWithPageObject] : -------invalidLogin was started ---------
+2021-07-09 14:41:20   INFO [pages.LoginPage] : Login page was opened
+2021-07-09 14:41:20   INFO [pages.LoginPage] : Login page has login icon
+2021-07-09 14:41:30   INFO [pages.LoginPage] :  ' 12345678 ' was input in the element  'Input Pass '
+2021-07-09 14:41:31   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:41:33   INFO [pages.LoginPage] :  'Button Sign In'Element was clicked
+2021-07-09 14:41:34  ERROR [pages.LoginPage] : labelMessage: 
+2021-07-09 14:41:34  ERROR [pages.LoginPage] : Невірний логін або пароль.
+2021-07-09 14:41:34   INFO [pages.LoginPage] : Element is present 
+2021-07-09 14:42:05   INFO [pages.LoginPage] :  'User Label'Element is not present
+2021-07-09 14:42:05   INFO [loginTest.LoginTestWithPageObject] : -------invalidLoginwas ended ---------
+2021-07-09 14:43:10   INFO [basketTest.BasketTest] : -------addFirstItemToBasket was started ---------
+2021-07-09 14:43:15   INFO [pages.BasketPage] : Basket page was opened
+2021-07-09 14:43:24   INFO [pages.BasketPage] : cartButton============
+2021-07-09 14:43:24   INFO [pages.BasketPage] : В кошик
+2021-07-09 14:43:28   INFO [basketTest.BasketTest] : -------addFirstItemToBasketwas ended ---------

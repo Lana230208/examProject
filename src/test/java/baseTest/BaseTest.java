@@ -11,6 +11,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import pages.BasketPage;
 import pages.LoginPage;
 
 import java.util.concurrent.TimeUnit;
@@ -19,7 +20,7 @@ import java.util.concurrent.TimeUnit;
         WebDriver webDriver;
         protected LoginPage loginPage;
 //        protected HomePage homePage;
-//        protected RegistrationForm registrationForm;
+        protected BasketPage basketPage;
         protected Logger logger = Logger.getLogger(getClass());
 
         @Rule
@@ -29,14 +30,11 @@ import java.util.concurrent.TimeUnit;
         public void setUp() {
             logger.info("-------" + testName.getMethodName() + " was started ---------");
             webDriver = initDriver();
-//        WebDriverManager.chromedriver().setup();
-//        webDriver = new ChromeDriver();
             webDriver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
             webDriver.manage().window().maximize();
 
             loginPage = new LoginPage(webDriver);
-//            homePage = new HomePage(webDriver);
-//            registrationForm = new RegistrationForm(webDriver);
+            basketPage = new BasketPage(webDriver);
         }
 
         @After
